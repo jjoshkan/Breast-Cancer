@@ -13,4 +13,6 @@ Kernel SVM,
 Naive Bayes, 
 Decision Tree, 
 Random Forest, and
-XGBoost
+XGBoost,
+
+Note that this dataset has already been cleaned beforehand using Excel. There are also other data preprocessing steps that I might have missed (Feature scaling, PCA, and possibly some categorical data encoding).
