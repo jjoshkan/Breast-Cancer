@@ -6,11 +6,11 @@ Dataset can be found here: (Breast Cancer Wisconsin Diagnostic Data Set)
 
 This is my attempt to applying different Supervised Classification models to the dataset.
 
-List of model:\n
-Logistics Regression\n
-K-Nearest Neighbours (KNN)\n
-Support Vector Machine (SVM)\n
-Kernel SVM\n
-Naive Bayes\n
-Decision Tree\n
-Random Forest\n
+List of model: Logistics Regression, 
+K-Nearest Neighbours (KNN), 
+Support Vector Machine (SVM), 
+Kernel SVM, 
+Naive Bayes, 
+Decision Tree, 
+Random Forest, and
+XGBoost
